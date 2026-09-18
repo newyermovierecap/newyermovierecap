@@ -1,0 +1,16 @@
+{
+  "name": "new-yer-ai-movie-recap",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
